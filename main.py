@@ -13,9 +13,9 @@ if __name__ == '__main__':
     solver = pulp.getSolver('GUROBI')
 
     #Set Macro limits
-    P = 37
-    C = 90
-    F = 35
+    P = 67
+    C = 120
+    F = 87
 
     #run premade salad model
     premade_model = premadesalad_selection(P, C, F)
