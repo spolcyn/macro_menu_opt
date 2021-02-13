@@ -1,0 +1,104 @@
+Category,Name,Size (g),Calories,Calories from Fat,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Total Carbs (g),Fiber (g),Sugars (g),Protein (g)
+SALADS,Curry Chickpea Bowl,424,593,190,22,1,0,75,883,67,13,13,40
+SALADS,Miso Bowl,327,595,283,33,2,0,70,1155,47,8,4,61
+SALADS,Winter Squash + Blue Cheese,266,493,318,40,8,0,25,1148,29,5,8,13
+SALADS,Winter Squash + Blue Cheese Warm Bowl,313,645,333,41,8,0,25,1245,55,8,9,45
+SALADS,Fish Taco,338,640,373,41,6,0,20,793,48,6,2,25
+SALADS,Cashew Chicken Bowl,411,585,215,26,3,0,70,708,62,6,12,35
+SALADS,Harissa Feta Lentil,345,355,160,19,6,0,30,633,35,9,13,15
+SALADS,Balsamic Goat Cheese,325,415,253,30,6,0,10,445,25,7,10,12
+SALADS,Thai Cashew Tofu,358,450,313,36,4,0,0,843,20,5,6,17
+SALADS,Pesto Chicken Parm,475,758,360,41,5,0,70,1608,63,12,5,45
+SALADS,Hummus Tahina *,432,495,278,33,7,0,30,1190,41,8,6,16
+SALADS,Kale Caesar,319,420,223,26,8,0,95,1130,10,3,2,40
+SALADS,Guacamole Greens,402,530,325,37,4,0,70,565,26,6,2,26
+SALADS,Rad Thai,314,365,200,24,3,0,145,715,16,1,3,24
+SALADS,Spicy Sabzi,359,440,263,32,2,0,0,893,27,5,5,17
+SALADS,OMG Omega,399,555,418,47,8,0,20,715,16,8,4,20
+SALADS,Harvest Bowl,362,705,318,38,7,0,80,905,57,9,10,39
+SALADS,Hollywood Bowl,340,705,300,36,7,0,80,735,47,7,19,35
+SALADS,Earth Bowl,451,820,318,36,3,0,70,1088,57,10,7,37
+SALADS,Shroomami,377,640,358,41,4,0,0,1060,50,8,8,22
+SALADS,Pesto Portobello,470,775,398,45,4,0,70,1373,62,12,8,41
+,,,,,,,,,,,,,
+BREAD,Whole Wheat Bread (BOS) *,34,80,10,0,0,0,0,200,18,3,0,3
+,,,,,,,,,,,,,
+BASES,Organic Arugula,95,25,5,1,0,0,0,25,3,2,2,2
+BASES,Organic Baby Spinach,105,25,0,0,0,0,0,85,4,2,0,3
+BASES,Organic Mesclun,95,15,0,0,0,0,0,25,2,,0,1
+BASES,Chopped Romaine,150,25,0,0,0,0,0,10,5,3,2,2
+BASES,Shredded Kale,85,40,0,1,0,0,0,35,9,2,0,3
+BASES,Warm Quinoa,100,160,25,3,0,0,0,90,29,3,0,6
+BASES,Organic Wild Rice,95,160,10,2,0,0,0,90,26,2,,5
+,,,,,,,,,,,,,
+INGREDIENTS,Basil,7,0,0,0,0,0,0,0,0,0,0,0
+INGREDIENTS,Cilantro,5,0,0,0,0,0,0,0,0,0,0,0
+INGREDIENTS,Cucumbers,40,0,0,0,0,0,0,0,0,0,0,0
+INGREDIENTS,Grapes,45,30,0,0,0,0,0,0,8,0,7,0
+INGREDIENTS,Hot Chickpeas ^,80,110,30,3,0,0,0,260,14,5,3,5
+INGREDIENTS,Jicama,35,15,0,0,0,0,0,0,3,2,0,0
+INGREDIENTS,Local Apples,29,15,0,0,0,0,0,0,4,0,3,0
+INGREDIENTS,Nori Furikake ^,3,10,5,1,0,0,0,105,0,0,0,0
+INGREDIENTS,Organic Carrots,23,10,0,0,0,0,0,15,2,0,1,0
+INGREDIENTS,Raisins,14,40,0,0,0,0,0,0,11,1,8,0
+INGREDIENTS,Raw Red Beets,40,15,0,0,0,0,0,30,4,1,3,0
+INGREDIENTS,Raw Corn,36,30,0,0,0,0,0,5,7,0,2,1
+INGREDIENTS,Red Chilis,1,0,0,0,0,0,0,0,0,0,0,0
+INGREDIENTS,Red Onion,35,15,0,0,0,0,0,0,3,0,1,0
+INGREDIENTS,Roasted Sweet Potatoes ^,39,70,10,1,0,0,0,170,13,2,3,1
+INGREDIENTS,Shredded Cabbage,25,5,0,0,0,0,0,0,1,0,0,0
+INGREDIENTS,Spicy Broccoli ^,33,45,30,4,0,0,0,170,3,1,0,2
+INGREDIENTS,Spicy Quinoa ^,36,50,10,2,0,0,0,160,7,0,0,2
+INGREDIENTS,Sprouts,19,5,0,0,0,0,0,0,1,0,0,0
+INGREDIENTS,Spicy Sunflower Seeds ^,13,70,50,6,1,0,0,55,3,1,0,2
+INGREDIENTS,Sprouted Almonds,14,80,60,7,1,0,0,0,3,2,0,3
+INGREDIENTS,Toasted Almonds,14,80,60,7,1,0,0,0,3,2,0,3
+INGREDIENTS,Tomatoes,46,10,0,0,0,0,0,0,2,0,1,0
+INGREDIENTS,Tortilla Chips,16,80,35,4,1,0,0,15,11,0,0,1
+INGREDIENTS,Zaatar Bread Crumbs *,15,45,15,2,0,0,0,160,8,0,0,2
+INGREDIENTS,Umami Walnuts,12,80,60,8,1,0,0,115,2,1,0,2
+INGREDIENTS,Cilantro,7,0,0,0,0,0,0,0,0,0,0,0
+INGREDIENTS,Black Lentils,55,50,0,0,0,0,0,75,8,4,1,4
+INGREDIENTS,Walnuts,12,70,60,7,0,0,0,0,1,1,0,0
+INGREDIENTS,Mint,5,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,
+PREMIUMS,Roasted Squash,70,100,40,5,0,0,0,300,14,2,2,1
+PREMIUMS,Local Blue Cheese,34,120,85,10,6,0,25,475,1,0,0,7
+PREMIUMS,Miso Glazed Vegetables,35,60,35,4,0,0,0,450,6,1,1,1
+PREMIUMS,Avocado,87,140,110,13,2,0,0,5,7,6,0,2
+PREMIUMS,Citrus Shrimp,71,140,50,6,0,0,145,430,2,0,0,20
+PREMIUMS,Hard Boiled Egg,50,80,50,5,2,0,185,60,0,0,0,6
+PREMIUMS,Herb Falafel ^,60,150,60,7,1,0,0,360,11,3,2,3
+PREMIUMS,Housemade Hummus,57,90,50,6,0,0,0,230,8,2,0,3
+PREMIUMS,Local Feta Cheese,31,80,60,7,5,0,30,280,1,0,1,4
+PREMIUMS,Local Goat Cheese,34,80,60,7,5,0,10,70,0,0,0,5
+PREMIUMS,Organic White Cheddar,32,130,90,10,7,0,35,190,0,0,0,8
+PREMIUMS,Parmesan Crisp,20,100,60,7,5,0,20,430,0,0,0,10
+PREMIUMS,Roasted Chicken ^,78,130,40,5,1,0,70,310,0,0,0,22
+PREMIUMS,Roasted Sesame Tofu ^,75,130,80,9,1,0,0,310,2,0,0,9
+PREMIUMS,Roasted Steelhead ^,86,230,170,18,5,0,20,280,0,0,0,15
+PREMIUMS,Shaved Parmesan,12,45,30,4,2,0,0,150,0,0,0,4
+PREMIUMS,Warm Portobello Mix ^,65,100,80,9,1,0,0,270,4,1,2,3
+,,,,,,,,,,,,,
+DRESSINGS,Curry Yogurt Dressing,30,45,35,4,0,0,5,150,2,0,1,1
+DRESSINGS,Harissa Tahina,30,70,50,6,1,0,0,160,3,1,0,2
+DRESSINGS,Balsamic Vinegar,15,15,0,0,0,0,0,0,2,0,2,0
+DRESSINGS,Balsamic Vinaigrette,30,150,130,16,1,0,0,230,3,0,3,0
+DRESSINGS,Caesar Dressing,30,100,90,10,2,0,5,220,1,0,0,1
+DRESSINGS,Carrot Chili Vinaigrette ^,30,150,140,17,1,0,0,150,2,0,1,0
+DRESSINGS,Cucumber Tahini Yogurt Dressing ^,30,100,90,11,1,0,0,140,2,0,0,1
+DRESSINGS,Extra Virgin Olive Oil,15,120,120,14,2,0,0,0,0,0,0,0
+DRESSINGS,Lemon Squeeze,15,0,0,0,0,0,0,0,1,0,0,0
+DRESSINGS,Lime Cilantro Jalapeno Vinaigrette,30,140,140,16,1,0,0,210,0,0,0,0
+DRESSINGS,Lime Squeeze,15,0,0,0,0,0,0,0,1,0,0,0
+DRESSINGS,Miso Sesame Ginger Dressing ^,30,140,130,15,1,0,0,270,3,0,2,0
+DRESSINGS,Pesto Vinaigrette,30,190,190,22,3,0,0,240,0,0,0,0
+DRESSINGS,Spicy Cashew Dressing ^,30,120,100,12,2,0,0,190,5,0,2,1
+DRESSINGS,Sweetgreen Hot Sauce,28,10,0,0,0,0,0,170,2,1,1,1
+,,,,,,,,,,,,,
+BEVERAGES,Lemon Fresca,475,60,0,0,0,0,0,10,17,0,15,0
+BEVERAGES,Cucumber Ginger Lime Fresca,475,60,0,0,0,0,0,5,17,0,12,0
+BEVERAGES,Jasmine Green Iced Tea +,475,0,0,0,0,0,0,20,0,0,0,0
+BEVERAGES,Iced Chai,475,0,0,0,0,0,0,20,0,0,0,0
+BEVERAGES,Chamomile Mint Iced tea,475,0,0,0,0,0,0,20,0,0,0,0
+BEVERAGES,Spiced Cider,475,100,0,0,0,0,0,0,26,3,19,0
